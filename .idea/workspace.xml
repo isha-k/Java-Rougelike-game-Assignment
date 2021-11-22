@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05466daf-ac7e-424c-9cd7-5ac833fad9b6" name="Default Changelist" comment="relocated the design rationale into the design rationale folder and uml diagram v1 into the uml diagrams folder" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x4pABm3VhiBJdyhLXldn7wpJJA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project" />
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.monash.fit2099.demo.conwayslife.Application" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.monash.fit2099.demo.conwayslife.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.monash.fit2099.demo.mars.Application" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.monash.fit2099.demo.mars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Application" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="Application.Application (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05466daf-ac7e-424c-9cd7-5ac833fad9b6" name="Default Changelist" comment="" />
+      <created>1629624070456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629624070456</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added assignment1A WBA signed by every member. pdf from shared google doc.">
+      <created>1630642367639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630642367639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pushing edits on the design rationale which is in the same doc as WBA.">
+      <created>1630837456650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630837456650</updated>
+    </task>
+    <task id="LOCAL-00003" summary="relocated the design rationale into thje design ratioanle folder and uml diagram v1 into the uml diagrams folder">
+      <created>1630837728671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630837728671</updated>
+    </task>
+    <task id="LOCAL-00004" summary="relocated the design rationale into the design rationale folder and uml diagram v1 into the uml diagrams folder">
+      <created>1630837790029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630837790029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added assignment1A WBA signed by every member. pdf from shared google doc." />
+    <MESSAGE value="pushing edits on the design rationale which is in the same doc as WBA." />
+    <MESSAGE value="relocated the design rationale into thje design ratioanle folder and uml diagram v1 into the uml diagrams folder" />
+    <MESSAGE value="relocated the design rationale into the design rationale folder and uml diagram v1 into the uml diagrams folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="relocated the design rationale into the design rationale folder and uml diagram v1 into the uml diagrams folder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1632651672706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1632651672706" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1634468820774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1634468820774" />
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1631586290747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1631586290747" />
+    <state x="115" y="0" key="CommitChangelistDialog2" timestamp="1631587474856">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="115" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1631587474856" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1634382213835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1634382213835" />
+    <state width="1237" height="462" key="GridCell.Tab.0.bottom" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.0.center" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.0.left" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.0.right" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.1.bottom" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.1.center" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.1.left" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state width="1237" height="462" key="GridCell.Tab.1.right" timestamp="1634453160932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="462" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1634453160932" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1634468130112">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1634468130112" />
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632660786833">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1632660786833" />
+    <state x="348" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1634383863140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1634383863140" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1632650595066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1632650595066" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Application.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
